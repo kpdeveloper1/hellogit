@@ -10,5 +10,20 @@ public class Bike {
 		System.out.println("Bike is runnig........");
 		
 		System.out.println("Bike is runnig........");
+		
+		
+System.out.println("Bike is runnig........");
+		
+		
+		System.out.println("Bike is runnig........");
+		
+		System.out.println("Bike is runnig........");
+System.out.println("Bike is runnig........");
+		
+		
+		System.out.println("Bike is runnig........");
+		
+		System.out.println("Bike is runnig........");
+		
 	}
 }
